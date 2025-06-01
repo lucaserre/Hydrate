@@ -1,16 +1,20 @@
-# hydrate_app
+# Hydrate 
 
-A new Flutter project.
+Um app simples feito com Flutter pra ajudar a galera a lembrar de beber água.  
+Criado com carinho (e um pouco de sede) usando Dart e o framework Flutter.
 
-## Getting Started
+## O que esse app faz?
 
-This project is a starting point for a Flutter application.
+- Mostra uma tela com uma barrinha animada (tipo um medidor de hidratação).
+- Tem um botão grandão com um ícone de água. Quando clica nele, a barrinha enche mais um pouco.
+- Tudo isso com uma animação suave que dá um toque mais bonito à interface.
+- A cada clique, a gente simula que a pessoa bebeu mais um copo de água.
 
-A few resources to get you started if this is your first Flutter project:
+## Como rodar
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Tenha o [Flutter](https://flutter.dev/docs/get-started/install) instalado.
+2. Clone esse repositório:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   ```bash
+   git clone https://github.com/lucaserre/Hydrate.git
+   cd hydrate_app
